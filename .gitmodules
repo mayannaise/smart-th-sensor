@@ -1,0 +1,3 @@
+[submodule "components/am2302"]
+	path = components/am2302
+	url = https://github.com/smartjeff/esp32-am2302.git
