@@ -10,7 +10,7 @@
 #include "thsensor.h"
 
 
-#define AM2302_SDA_PIN GPIO_NUM_37
+#define AM2302_SDA_PIN GPIO_NUM_4
 
 static const char *log_tag = "thsensor";
 
